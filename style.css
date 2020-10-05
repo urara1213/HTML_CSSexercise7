@@ -1,0 +1,31 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.main-visual {
+  background-image: url(img/mv.jpg);
+  background-size: cover;
+  background-position: bottom;
+  height: 400px;
+  width: 100%;
+}
+h1 {
+  margin: 20px;
+}
+main {
+  width: 840px;
+  margin: 50px auto;
+}
+
+.course1 {
+  margin-bottom: 30px;
+  padding-bottom: 30px;
+  border-bottom: 1px solid #d1d1d1;
+}
+
+.course2 {
+  padding-bottom: 30px;
+  borderbottom: 1px solid #d1d1d1;
+}
